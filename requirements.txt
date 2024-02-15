@@ -1,0 +1,5 @@
+opencv-python==4.5.3.56
+easygui==0.98.2
+numpy==1.21.2
+Pillow==8.4.0
+matplotlib==3.5.1
