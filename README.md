@@ -23,7 +23,7 @@ CartoonifyApp is a Python application that allows users to cartoonify their imag
 
 Usage
 1. Run the application:
-   python App.py
+   python app.py
 2. Click on the "Cartoonify an Image" button.
 
 3. Select an image file from your file system.
